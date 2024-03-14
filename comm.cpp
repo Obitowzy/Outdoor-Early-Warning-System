@@ -4,7 +4,7 @@ comm::comm(QObject *parent) : QObject(parent)
 {
 
 }
-
+//123345
 //QByteArray comm::set_packetHeader(QByteArray &packetHeader,int a){
 //    packetHeader.clear();
 //    switch (a) {
